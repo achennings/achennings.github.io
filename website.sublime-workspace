@@ -1,0 +1,1013 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acq",
+				"acquisition"
+			],
+			[
+				"ext",
+				"extinction"
+			],
+			[
+				"set",
+				"set_title"
+			],
+			[
+				"Conn",
+				"connectivity"
+			],
+			[
+				"enco",
+				"encode_df"
+			],
+			[
+				"get",
+				"get_ylim"
+			],
+			[
+				"poin",
+				"point_colors"
+			],
+			[
+				"poi",
+				"point_colors"
+			],
+			[
+				"dar",
+				"darkmagenta"
+			],
+			[
+				"late",
+				"late_acquisition"
+			],
+			[
+				"re",
+				"retrieval"
+			],
+			[
+				"ear",
+				"early_extinction"
+			],
+			[
+				"mem",
+				"memcon2"
+			],
+			[
+				"condi",
+				"condition2"
+			],
+			[
+				"m",
+				"memcon"
+			],
+			[
+				"memory",
+				"memory_phase"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"res",
+				"reset_index"
+			],
+			[
+				"rsa",
+				"rsa_phase"
+			],
+			[
+				"p_",
+				"p_fdr"
+			],
+			[
+				"stim",
+				"stimulus"
+			],
+			[
+				"memo",
+				"memory_run-03"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"fear",
+				"fearpal"
+			],
+			[
+				"pos",
+				"pospal"
+			],
+			[
+				"lmm",
+				"lmm_res"
+			],
+			[
+				"as",
+				"as_cmap"
+			],
+			[
+				"p",
+				"phases"
+			],
+			[
+				"suib",
+				"subjects_dir"
+			],
+			[
+				"subj",
+				"subjects_dir"
+			],
+			[
+				"subjects",
+				"subjects_dir"
+			],
+			[
+				"ex",
+				"extinction"
+			],
+			[
+				"endo",
+				"encode_phases"
+			],
+			[
+				"all",
+				"all_phases"
+			],
+			[
+				"beta",
+				"beta_backup"
+			],
+			[
+				"reg",
+				"regfolder"
+			],
+			[
+				"modl",
+				"model_dir"
+			],
+			[
+				"enc",
+				"encode_mem"
+			],
+			[
+				"s_desc-preproc",
+				"s_desc-preproc_bold"
+			],
+			[
+				"fig",
+				"figsize"
+			],
+			[
+				"a",
+				"atlas_img"
+			],
+			[
+				"eno",
+				"encode_phase"
+			],
+			[
+				"int",
+				"interpolation"
+			],
+			[
+				"at",
+				"atlas_str"
+			],
+			[
+				"all_",
+				"all_mem_labels"
+			],
+			[
+				"grou",
+				"group_gPPI_out"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"encoe",
+				"encode_df"
+			],
+			[
+				"mem_",
+				"mem_phases"
+			],
+			[
+				"encod",
+				"encode_phase"
+			],
+			[
+				"replace",
+				"replacements"
+			],
+			[
+				"extracte",
+				"extracted_gPPI"
+			],
+			[
+				"gpp",
+				"gPPI_codebase"
+			],
+			[
+				"gPP",
+				"gPPI_codebase"
+			],
+			[
+				"ttest",
+				"ttest_1samp"
+			],
+			[
+				"std_200",
+				"std_2009_brain_3mm"
+			],
+			[
+				"ref",
+				"reference"
+			],
+			[
+				"work",
+				"working_label"
+			],
+			[
+				"s_from",
+				"sub-FC010_from-T1w_to-MNI152NLin2009cAsym_mode-image_xfm"
+			],
+			[
+				"mas",
+				"mask_dat"
+			],
+			[
+				"seed",
+				"seed_dir"
+			],
+			[
+				"s",
+				"s_"
+			],
+			[
+				"new",
+				"new_img_like"
+			],
+			[
+				"rh_",
+				"rh_amyg"
+			],
+			[
+				"std",
+				"std_2009_brain"
+			],
+			[
+				"sta",
+				"standard"
+			],
+			[
+				"st",
+				"standard_mask"
+			],
+			[
+				"stan",
+				"standard_head"
+			],
+			[
+				"aparc",
+				"aparcaseg"
+			],
+			[
+				"t1",
+				"t1_brain"
+			],
+			[
+				"group",
+				"group_gPPI"
+			],
+			[
+				"phase",
+				"phase_pal"
+			],
+			[
+				"rh",
+				"rh_amyg"
+			],
+			[
+				"mask",
+				"mask_name"
+			],
+			[
+				"copy",
+				"copypasta"
+			],
+			[
+				"ac",
+				"acquisition"
+			],
+			[
+				"conca",
+				"concatenate"
+			],
+			[
+				"prepro",
+				"preproc_dir"
+			],
+			[
+				"model",
+				"model_dir"
+			],
+			[
+				"mode",
+				"model_dir"
+			],
+			[
+				"txt",
+				"txt_file"
+			],
+			[
+				"prep",
+				"preproc_dir"
+			],
+			[
+				"pro",
+				"preproc_dir"
+			],
+			[
+				"early",
+				"early_rnw"
+			],
+			[
+				"encode",
+				"encode_phase"
+			],
+			[
+				"ec",
+				"encode_phase"
+			],
+			[
+				"local",
+				"localizer_2"
+			],
+			[
+				"memor",
+				"memory_run_3"
+			],
+			[
+				"memory_",
+				"memory_run_1"
+			],
+			[
+				"e",
+				"extinction_recall"
+			],
+			[
+				"sub_",
+				"sub_arg"
+			],
+			[
+				"in",
+				"intro"
+			],
+			[
+				"sc",
+				"Schizophrenic"
+			],
+			[
+				"Dara",
+				"DataFrame"
+			],
+			[
+				"sha",
+				"sharey"
+			],
+			[
+				"encodin",
+				"encoding_phases"
+			],
+			[
+				"O",
+				"OrderedDict"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"vox",
+				"voxel_dir"
+			],
+			[
+				"fear_",
+				"fear_conditioning"
+			],
+			[
+				"comb",
+				"combinations"
+			],
+			[
+				"json",
+				"json_file"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"dcm2",
+				"dcm2bids_call"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"graph",
+				"graphdat"
+			],
+			[
+				"fucn",
+				"func_brain_mask"
+			],
+			[
+				"conc",
+				"concat_images"
+			],
+			[
+				"len",
+				"legend_"
+			],
+			[
+				"wes",
+				"wes_palettes"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"pal",
+				"palette"
+			],
+			[
+				"est",
+				"estimator"
+			],
+			[
+				"es",
+				"estimator"
+			],
+			[
+				"poly",
+				"polynomial"
+			],
+			[
+				"controL",
+				"control_psc"
+			],
+			[
+				"extin",
+				"extinction_recall"
+			],
+			[
+				"weigh",
+				"weight_dir"
+			],
+			[
+				"fe",
+				"fearconditioning"
+			],
+			[
+				"ana",
+				"anatomy"
+			],
+			[
+				"lch",
+				"lch_csp_fa_rate"
+			],
+			[
+				"false",
+				"false_alarm"
+			],
+			[
+				"forget",
+				"forget2"
+			],
+			[
+				"ani",
+				"animal"
+			],
+			[
+				"dACC",
+				"dACC_out"
+			],
+			[
+				"amg",
+				"amyg_out"
+			],
+			[
+				"vmP",
+				"vmPFC_out"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colorche",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Packagereser",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Packageresource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"PackageResource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"change ",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"MarkdownEditing: Change color scheme...",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"color sche",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ACH/Documents/achennings.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/ACH/Documents/gPPI/group_gPPI_analysis.py",
+		"/C/Users/ACH/Documents/gPPI/fg_config.py",
+		"/C/Users/ACH/Documents/gPPI/graphing_functions.py",
+		"/C/Users/ACH/Documents/gPPI/paper_graphics.py",
+		"/C/Users/ACH/Documents/gPPI/brainnetome_display.py",
+		"/C/Users/ACH/Documents/achennings.github.io/css/main.css",
+		"/C/Users/ACH/Documents/achennings.github.io/_config.yml",
+		"/C/Users/ACH/Documents/achennings.github.io/index.md",
+		"/C/Users/ACH/Documents/achennings.github.io/index.html",
+		"/C/Users/ACH/Documents/ExPress/analysis/survey_analysis.py",
+		"/C/Users/ACH/Documents/gPPI/cns20.py",
+		"/C/Users/ACH/Documents/gPPI/advanced_rsa_analysis.py",
+		"/C/Users/ACH/Documents/gPPI/roi_rsa.py",
+		"/C/Users/ACH/Documents/gPPI/roi_rsa_graphing.py",
+		"/C/Users/ACH/Documents/gPPI/univariate_analysis.py",
+		"/C/Users/ACH/Documents/fearmem/analysis/fm_config.py",
+		"/C/Users/ACH/Documents/gPPI/pysurfer.py",
+		"/C/Users/ACH/Documents/gPPI/index_rsm.py",
+		"/C/Users/ACH/Documents/gPPI/remove_na_from_mat.py",
+		"/C/Users/ACH/Documents/gPPI/parametric_modulators.py",
+		"/C/Users/ACH/Documents/fearmem/analysis/fm_statistics.py",
+		"/C/Users/ACH/Documents/gPPI/bids_model.py",
+		"/C/ProgramData/Miniconda3/Lib/site-packages/pingouin/nonparametric.py",
+		"/C/Users/ACH/Documents/fearmem/analysis/fm_behavioral.py",
+		"/C/Users/ACH/Documents/fearmem/analysis/util_scripts.py",
+		"/D/FearCon/CodeBase/PCL_response.py",
+		"/D/FearCon/CodeBase/mvpa_analysis_graphing.py",
+		"/D/FearCon/CodeBase/nbc19.py",
+		"/C/Users/ACH/Documents/fearmem/fm-bids/sub-FC002/events/sub-FC002_task-memory_run-02_events.tsv",
+		"/C/Users/ACH/Documents/fearmem/fm-bids/sub-FC002/events/sub-FC002_task-localizer_run-02_events.tsv",
+		"/C/Users/ACH/Documents/fc_memory_study/analysis/util_scripts.py",
+		"/C/Users/ACH/Documents/fc_memory_study/analysis/proj_config.py",
+		"/C/Users/ACH/Documents/fc_memory_study/fc-behavior_bids/sub-FC107/events/sub-FC107_task-localizer_run-01_events.tsv",
+		"/C/Users/ACH/Documents/fc_memory_study/fc-behavior_bids/sub-FC107/events/sub-FC107_task-localizer_run-02_events.tsv",
+		"/C/Users/ACH/Documents/fc_memory_study/analysis/fg_config.py",
+		"/C/Users/ACH/Documents/Dunsmoor Lab/posgen/gengraph.py",
+		"/C/ProgramData/Miniconda3/Lib/site-packages/seaborn/miscplot.py",
+		"/C/Users/ACH/Documents/Dunsmoor Lab/custom_bids/fc.json",
+		"/D/FearCon/CodeBase/fearcon_response.py",
+		"/D/FearCon/CodeBase/behavioral_graphing.py",
+		"/D/FearCon/CodeBase/fc_behavioral.py",
+		"/D/FearCon/CodeBase/cns19.py",
+		"/D/FearCon/CodeBase/scr_analysis_fcp.py",
+		"/D/FearCon/CodeBase/scr_analysis.py",
+		"/C/Users/ACH/Documents/gPPI/fg_preproc.py",
+		"/C/Users/ACH/Documents/ExPress/analysis/ex_config.py",
+		"/C/Users/ACH/Desktop/express_graphing_example.py",
+		"/C/Users/ACH/Documents/ExPress/analysis/ex_behavioral.py",
+		"/C/Users/ACH/Documents/ExPress/analysis/real_better_graphing.py",
+		"/D/FearCon/Group_GLM/group_4trial_corr.gfeat/logs/feat0",
+		"/C/Users/ACH/Documents/gPPI/conn_rsa.py",
+		"/D/FearCon/CodeBase/sfn18.py",
+		"/C/Users/ACH/Documents/ExPress/analysis/graphing.py",
+		"/C/Users/ACH/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/mutedrainbow_sky.tmTheme",
+		"/C/Program Files/WindowsApps/Microsoft.WindowsTerminal_1.0.1401.0_x64__8wekyb3d8bbwe/defaults.json",
+		"/C/Users/ACH/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/ACH/Documents/gPPI/py_surfer_test.py",
+		"/C/Users/ACH/Downloads/BN_Atlas_freesurfer/BN_Atlas_freesurfer/mapping_to_subjects.sh",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/nilearn/signal.py",
+		"/C/ProgramData/Anaconda3/Lib/site-packages/nilearn/image/image.py",
+		"/C/Users/ACH/Documents/gPPI/feats/gPPI/day1_encode_gPPI.fsf",
+		"/C/Users/ACH/Documents/gPPI/feats/gPPI/template_memory_run-01_gPPI.fsf",
+		"/C/Users/ACH/Desktop/design.mat",
+		"/C/Users/ACH/Desktop/sub-FC010_memory_run-03_gPPI.feat/test.mat",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/fc_behavioral.py",
+		"/C/Users/ACH/Documents/quals_practice_notes.txt",
+		"/C/Users/ACH/Documents/meeting_8_28.txt",
+		"/C/Users/ACH/Documents/license.txt",
+		"/C/Users/ACH/Documents/jarrod_notes.txt",
+		"/C/Users/ACH/Documents/freesurfer.txt",
+		"/C/Users/ACH/Documents/acnn_big_data_conf.md",
+		"/C/Users/ACH/Documents/7-18.txt",
+		"/C/Users/ACH/Documents/fat/rsa/dsm_selfwithin.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/burst/workpls.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/burst/searchlight_example.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/burst/BurstSearch.py",
+		"/C/Program Files (x86)/ProxyGate/list.dat",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/group_day1_gPPI.fsf",
+		"/C/Users/ACH/Downloads/BN_Atlas_for_FSL/Readme.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fg_preproc.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/group_gPPI_analysis.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/template_memory_run-03_gPPI.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/template_extinction_gPPI.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/template_baseline_gPPI.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/template_acquisition_gPPI.fsf",
+		"/C/Users/ACH/Desktop/sub-FC010_acquisition_gPPI.feat/design.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/sl_stats.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/searchlight_stats.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/cns20.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/roi_rsa.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/python_deconvolution/example_data/ppi_01.txt",
+		"/C/Users/ACH/Desktop/source.feat/design.fsf",
+		"/C/Users/ACH/Documents/yup/test_class.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fg_config.py",
+		"/C/Users/ACH/Desktop/beta_graphing.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/predictive_searchlight.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/graphing_functions.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/mem_rsa.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/hc_seg.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/ExPress/transformed_SCR/conditioning1_pt1/Autonomate_Batch_Output_2020417_101.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/ExPress/transformed_SCR/conditioning1_pt1/batch.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/roi_rsa_graphing.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fslppi_JM/run_ppi.m",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fslppi_JM/spm_PEB.m",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fslppi_JM/fsldesign_to_spmsess.m",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fslppi_JM/read_fsl_design.m",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/fslppi_JM/fsl_ppi.m",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/bids_model.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/fearcon_response.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/ev_logreg.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/ev_logreg_example.py",
+		"/C/Users/ACH/Documents/yup/settings.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/fsl_stats.sh",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/ExPress/analysis/ex_config.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/cluster-stuff.txt",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/Group_GLM/cluster_res/cluster_stats.py",
+		"/C/Program Files (x86)/Mendeley Desktop/Mendeley.dll",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/mem_encode_gPPI.fsf",
+		"/C/Users/ACH/Desktop/standard/test6.mat",
+		"/C/Users/ACH/Desktop/standard/test12.mat",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/ExPress/analysis/ex_behavioral.py",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/template_acquisition_rsa.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/template_baseline_rsa.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/template_extinction_rsa.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/lss/template_lss_acquisition.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/lss/template_lss_baseline.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/lss/template_lss_extinction.fsf",
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/lss/template_lss_localizer_run-01.fsf"
+	],
+	"find":
+	{
+		"height": 48.5714285714
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"range",
+			"roi",
+			"remove",
+			"range",
+			"early",
+			"cmaps",
+			"rois",
+			"type",
+			"tri",
+			"8",
+			"wilcoxon",
+			"    \n",
+			"sq",
+			"np.sq",
+			"SCR",
+			"pd",
+			"np",
+			"pcl",
+			"PCL",
+			"survey",
+			"pcl",
+			"B_disp",
+			"initial",
+			"healthy",
+			"':\n",
+			"inflated",
+			"reg",
+			"confounds",
+			"clean",
+			"except",
+			"auto",
+			"memor",
+			"clean",
+			"confounds",
+			"autofil",
+			"autofill_fsf",
+			"n_perm",
+			"c = group_roi_rsa(group='control',ext_split=True,fs=True,hemi=False)\np = group_roi_rsa(group='ptsd',ext_split=True,fs=True,hemi=False)\n\ngroups = ['control','ptsd']\nmemcon = ['encoding','retrieval']\nlevels = ['item','set']\nmems = ['hit','miss']\ncons = ['CS+','CS-']\n# rois = ['mOFC','dACC','amyg','hpc','ins','hc_head','hc_body','hc_tail','rh_hc_head','rh_hc_body','rh_hc_tail','lh_hc_head','lh_hc_body','lh_hc_tail','amyg_bla','amyg_cem','rh_amyg_bla','rh_amyg_cem','lh_amyg_bla','lh_amyg_cem']\nrois = ['mOFC','dACC','amyg','hpc','ins','lh_amyg','rh_amyg','lh_hpc','rh_hpc','sgACC','rACC','rSMA','rACG','hc_head','hc_body','hc_tail','rh_hc_head','rh_hc_body','rh_hc_tail','lh_hc_head','lh_hc_body','lh_hc_tail','amyg_bla','amyg_cem','rh_amyg_bla','rh_amyg_cem','lh_amyg_bla','lh_amyg_cem']  \nphases = {'baseline':24,'acquisition':24,'early_extinction':8,'extinction':16}\n# phases = {'baseline':24,'acquisition':24,'extinction':24}\nsubs = range(24)\nconds = ['CSp','CSm']\n\nfrom graphing_functions import *\n##############Item level##############################\ncdf = c.df.groupby(['trial_type','encode_phase','roi','subject']).mean()\npdf = p.df.groupby(['trial_type','encode_phase','roi','subject']).mean()\n\ners_pvals = pd.DataFrame(index=pd.MultiIndex.from_product([groups,rois,phases,levels]))\nfor roi in rois:\n    for phase in phases:\n        ers_pvals.loc[('control',roi,phase,'item'),'W'] = pg.wilcoxon(cdf.loc[('CS+',phase,roi),'rsa'], cdf.loc[('CS-',phase,roi),'rsa'])['p-val'].values\n        ers_pvals.loc[('ptsd',roi,phase,'item'),'W'] = pg.wilcoxon(pdf.loc[('CS+',phase,roi),'rsa'], pdf.loc[('CS-',phase,roi),'rsa'])['p-val'].values\n\nmdf = pd.concat((cdf,pdf))\nmdf = (mdf.loc['CS+'] - mdf.loc['CS-']).reset_index()\nmdf['group'] = mdf.subject.apply(lgroup)\nmdf['level'] = 'item'\nphase3 = ['baseline','acquisition','extinction']\nmdf = mdf.set_index(['group','roi','encode_phase']).sort_index()",
+			"def cscomp",
+			"drop",
+			"group_comp",
+			"def cscomp",
+			"group",
+			"group_comp",
+			"))\n",
+			"cscomp",
+			"tri",
+			"phase_pal",
+			"boot_rsa",
+			"range",
+			"baseline",
+			"rACC",
+			"range(",
+			"group_c",
+			"group",
+			"12",
+			"run-02",
+			"run-01",
+			"RUNID",
+			"name",
+			"memory_run-01",
+			"sub-FC001",
+			"phase3",
+			"res",
+			"ttest_",
+			"tt",
+			"tte",
+			"file",
+			"pickle",
+			"w_slice",
+			"reg_res",
+			"split",
+			"group",
+			"group_",
+			"subj",
+			"resamp",
+			"apply",
+			"range(",
+			"expit",
+			"confounds",
+			"os.sy",
+			"mask",
+			"std_2009_brain",
+			"plt.close()",
+			"']  ",
+			"rsa",
+			"lss(",
+			"space-T1w",
+			"space",
+			"space-T1w",
+			"standard",
+			"lh_amyg",
+			"sub-FC001",
+			"desktop",
+			"memory_run-01",
+			"sub-FC001",
+			"lh_amyg",
+			"gPPI",
+			"range(",
+			"range",
+			"COPEID.nii.gz",
+			" -",
+			"COPEID",
+			"cope1",
+			"lh_amyg",
+			"COPEID",
+			"cope1",
+			"cope",
+			"lh_amyg",
+			"roi",
+			"range(",
+			"ROI",
+			"roi",
+			"lh_amyg",
+			"sub-FC001",
+			"ROI",
+			"lh_amyg",
+			"ROI",
+			"roi",
+			"lh_amyg",
+			"pass",
+			"ROI",
+			"roi",
+			"memory_run-01",
+			"sub-FC001",
+			"split",
+			"tanh",
+			"range(1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 229.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

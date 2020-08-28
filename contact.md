@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [achennings@utexas.edu](mailto:achennings@utexas.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Twitter: [@gus_hennings](https://twitter.com/gus_hennings)
 
 ---
 
-## Social
+## Associated labs
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [Dunsmoor lab](https://sites.utexas.edu/dunsmoorlab/)
+
+* [Lewis-Peacock lab](https://www.lewpealab.org/) 

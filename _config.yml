@@ -1,6 +1,7 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Augustin C. Hennings
+url: "https://achennings.github.io"
+baseurl: "/neuroscience"
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +9,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/achennings"
+footer_text: "pithy rejoinder"
 
 sass:
     style: compressed
@@ -17,8 +18,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/neuroscience/"
+ - name: "CV"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"
