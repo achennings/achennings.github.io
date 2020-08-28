@@ -1,6 +1,6 @@
 title: Augustin C. Hennings
 url: https://achennings.github.io
-#baseurl: "/neuroscience"
+baseurl: "/neuroscience"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
