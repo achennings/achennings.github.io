@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "index"
+   link: "neuroscience"
  - name: "CV"
    link: "ACHennings_CV.pdf"
 # - name: "Contact"
