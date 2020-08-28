@@ -19,7 +19,7 @@ Feel free to shoot me an [email](mailto:achennings@utexas.edu), reach out on [tw
 
 ## Research Statement
 
-The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as MVPA and machine learning to better understand fear extinction in both healthy and clinical populations
+The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as multi-variate pattern analysis and machine learning to better understand fear extinction in both healthy and clinical populations
 
 ---
 
