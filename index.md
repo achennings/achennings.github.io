@@ -8,7 +8,7 @@ layout: default
 
 Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://sites.utexas.edu/dunsmoorlab/) and [Lewis-Peacock](https://www.lewpealab.org/) labs.
 
-I like studying learning and memory in humans, and obsessing over graph aesthetics.
+I like studying learning and memory in humans, obsessing over graph aesthetics, and monospaced fonts.
 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
