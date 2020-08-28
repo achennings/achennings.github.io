@@ -21,6 +21,8 @@ Feel free to shoot me an [email](mailto:achennings@utexas.edu), reach out on [tw
 
 The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as MVPA and machine learning to better understand fear extinction in both healthy and clinical populations
 
+---
+
 ## Publications
 
 1. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-In lieu of a blog, here is a list of books I have recently read or am attempting to read. Most fiction was consumed as audiobooks while walking my dogs. See if you can spot the theme.
+In lieu of a personal blog, here is a list of books I have read in grad school. Most fiction was consumed as audiobooks while walking my dogs.
 
 |Anxious|Joe LeDoux|
 |Bad Blood|John Carreyrou|
@@ -22,4 +22,5 @@ In lieu of a blog, here is a list of books I have recently read or am attempting
 |Dune Messiah|Frank Herbert|
 |Children of Dune|Frank Herbert|
 |God Emperor of Dune|Frank Herbert|
-|The Shining|Frank Herbert|
+|The Shining|Stephen King|
+|The Dark Tower (Series)| Stephen King|
