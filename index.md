@@ -6,17 +6,18 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://sites.utexas.edu/dunsmoorlab/) and [Lewis-Peacock](https://www.lewpealab.org/) labs.
+Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://sites.utexas.edu/dunsmoorlab/) and [Lewis-Peacock](https://www.lewpealab.org/) labs. I am currently supported by an NRSA F31 fellowship from the NIMH.
 
-My interests include studying learning and memory in humans, obsessing over graph aesthetics, and monospaced fonts.
+My interests include:
+- studying learning and memory in humans
+- obsessing over graph aesthetics
+- monospaced fonts
 
-I am currently supported by an NRSA F31 fellowship from the NIMH.
-
-Feel free to shoot me an [**email**](mailto:achennings@utexas.edu), or reach out on [**twitter**](https://twitter.com/gus_hennings), or check out my [**github**](https://github.com/achennings).
+Feel free to shoot me an [email](mailto:achennings@utexas.edu), reach out on [twitter](https://twitter.com/gus_hennings), or check out my [github](https://github.com/achennings).
 
 ---
 
-## Research Interests
+## Research Statement
 
 The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as MVPA and machine learning to better understand fear extinction in both healthy and clinical populations
 

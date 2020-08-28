@@ -17,9 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "index"
  - name: "CV"
    link: "ACHennings_CV.pdf"
-# - name: "Contact"
-#   link: "contact"
+ - name: "Blog?"
+   link: "blog"
