@@ -1,3 +1,5 @@
+Theme forked from http://ankitsultana.com/researcher
+
 # Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)

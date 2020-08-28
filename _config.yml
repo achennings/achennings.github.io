@@ -1,5 +1,5 @@
 title: Augustin C. Hennings
-url: https://achennings.github.io
+# url: https://achennings.github.io
 # baseurl: "/index"
 # remote_theme: achennings/achennings.github.io@gem
 
@@ -9,8 +9,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/achennings"
-footer_text: "pithy rejoinder"
+footer_url: "https://github.com/achennings/achennings.github.io"
+footer_text: "source"
 
 sass:
     style: compressed
