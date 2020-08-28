@@ -4,45 +4,28 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="face.jpg">
 
 Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://sites.utexas.edu/dunsmoorlab/) and [Lewis-Peacock](https://www.lewpealab.org/) labs.
 
-I like studying learning and memory in humans, obsessing over graph aesthetics, and monospaced fonts.
+My interests include studying learning and memory in humans, obsessing over graph aesthetics, and monospaced fonts.
 
+I am currently supported by an NRSA F31 fellowship from the NIMH.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Feel free to shoot me an **[email]**(mailto:achennings@utexas.edu), or reach out on **[twitter]**(https://twitter.com/gus_hennings).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as MVPA and machine learning to better understand fear extinction in both healthy and clinical populations
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. Neuropsychologia. https://doi.org/10.1016/j.neuropsychologia.2020.107573
 
-## Typography
+2. Keller, N. E., **Hennings, A. C.**, & Dunsmoor, J. E. (2020). Behavioral and neural processes in counterconditioning: past and future directions. Behaviour Research and Therapy. https://doi.org/10.1016/j.brat.2019.103532
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+3. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Submitted). The effect of top-down thought suppression on fear extinction generalization.
 
-Here is a table
+4. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (Submitted). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. Preprint available at https://doi.org/10.31234/osf.io/ckf8d
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+5. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
