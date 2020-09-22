@@ -29,7 +29,7 @@ The broad goal of my Ph.D. is to leverage insights from episodic memory research
 
 2. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (Submitted). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Preprint](https://doi.org/10.31234/osf.io/ckf8d)
 
-3. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Submitted). The effect of top-down thought suppression on fear extinction generalization.
+3. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Accepted). The effect of top-down thought suppression on fear extinction generalization.
 
 4. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
 
