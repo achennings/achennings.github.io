@@ -25,12 +25,14 @@ The broad goal of my Ph.D. is to leverage insights from episodic memory research
 
 ## Publications
 
-1. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
+1. **Hennings, A. C.**, McCaly, M. Lewis-Peaock, J. A., & Dunsmoor, J. E. (In Prep). Retroactive enhancements of weak memory associated with misattribution to a more salient context.
 
-2. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (Submitted). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Preprint](https://doi.org/10.31234/osf.io/ckf8d)
+2. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
 
-3. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Accepted). The effect of top-down thought suppression on fear extinction generalization.
+3. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (Accepted). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. Neuropsychologia.
 
-4. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
+4. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Accepted). The effect of top-down thought suppression on fear extinction generalization. Behavioural Brain Research.
 
-5. Keller, N. E., **Hennings, A. C.**, & Dunsmoor, J. E. (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
+5. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
+
+6. Keller, N. E., **Hennings, A. C.**, & Dunsmoor, J. E. (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
