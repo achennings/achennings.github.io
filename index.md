@@ -29,9 +29,9 @@ The broad goal of my Ph.D. is to leverage insights from episodic memory research
 
 2. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
 
-3. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (Accepted). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. Neuropsychologia.
+3. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (2020). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107653)
 
-4. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (Accepted). The effect of top-down thought suppression on fear extinction generalization. Behavioural Brain Research.
+4. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (2020). The effect of top-down thought suppression on fear extinction generalization. [Behavioural Brain Research.](https://doi.org/10.1016/j.bbr.2020.112931)
 
 5. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
 
