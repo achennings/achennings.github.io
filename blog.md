@@ -3,6 +3,9 @@ layout: default
 ---
 In lieu of a personal blog, here is a list of books I have read in grad school. Most fiction was consumed as audiobooks while walking my dogs.
 
+|Sapiens|Yuval Noah Harari|
+|Children of God|Mary Doria Russel|
+|The Stand|Steven King|
 |Anxious|Joe LeDoux|
 |Bad Blood|John Carreyrou|
 |The Visual Display of Quantitative Information|Edward Tufte|

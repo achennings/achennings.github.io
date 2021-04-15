@@ -25,9 +25,9 @@ The broad goal of my Ph.D. is to leverage insights from episodic memory research
 
 ## Publications
 
-1. **Hennings, A. C.**, McCaly, M. Lewis-Peaock, J. A., & Dunsmoor, J. E. (In Prep). Retroactive enhancements of weak memory associated with misattribution to a more salient context.
+1. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
 
-2. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Prep). Dissociable neural reinstatement of emotional memories in human PFC.
+2. **Hennings, A. C.**, Lewis-Peacock, J. A., & Dunsmoor, J. E. (In Press). Emotional learning retroactively enhances item memory but distorts source attribution. Learning & Memory. [Preprint at PsyRxiv](https://psyarxiv.com/g4ktq/)
 
 3. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (2020). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107653)
 
