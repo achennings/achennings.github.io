@@ -520,15 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 4465,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"contents": "Searching 22 files for \"Kaia\" (case sensitive)\n\n0 matches",
 			"settings":
 			{
@@ -543,24 +534,6 @@
 			"settings":
 			{
 				"buffer_size": 944,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.md",
-			"settings":
-			{
-				"buffer_size": 2613,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 76,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -681,6 +654,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/ACH/Documents/achennings.github.io/.gitignore",
+		"/C/Users/ACH/Documents/achennings.github.io/index.md",
+		"/C/Users/ACH/Documents/achennings.github.io/_layouts/default.html",
 		"/C/Users/ACH/Documents/achennings.github.io/_sass/vars.scss",
 		"/C/Users/ACH/Documents/achennings.github.io/ACHennings_CV.pdf",
 		"/C/Users/ACH/Documents/achennings.github.io/_site/css/main.css",
@@ -690,7 +666,6 @@
 		"/C/Users/ACH/Documents/achennings.github.io/README.md",
 		"/C/Users/ACH/Documents/achennings.github.io/contact.md",
 		"/C/Users/ACH/Documents/achennings.github.io/neuroscience.md",
-		"/C/Users/ACH/Documents/achennings.github.io/index.md",
 		"/C/Users/ACH/Documents/gPPI/group_gPPI_analysis.py",
 		"/C/Users/ACH/Documents/gPPI/fg_config.py",
 		"/C/Users/ACH/Documents/gPPI/graphing_functions.py",
@@ -806,9 +781,7 @@
 		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/CodeBase/cluster-stuff.txt",
 		"/C/Users/ACH/Dropbox (LewPeaLab)/STUDY/FearCon/Group_GLM/cluster_res/cluster_stats.py",
 		"/C/Program Files (x86)/Mendeley Desktop/Mendeley.dll",
-		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/mem_encode_gPPI.fsf",
-		"/C/Users/ACH/Desktop/standard/test6.mat",
-		"/C/Users/ACH/Desktop/standard/test12.mat"
+		"/C/Users/ACH/Dropbox (LewPeaLab)/Gus/gPPI/feats/gPPI/mem_encode_gPPI.fsf"
 	],
 	"find":
 	{
@@ -964,49 +937,20 @@
 		[
 		],
 		"reverse": false,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								444,
-								444
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1037,12 +981,14 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "blog.md",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1059,6 +1005,7 @@
 						],
 						"settings":
 						{
+							"show_definitions": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -1066,62 +1013,7 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2613,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1249,
-								1249
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 700.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]

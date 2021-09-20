@@ -11,7 +11,7 @@ Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://
 My interests include:
 - studying learning and memory in humans
 - obsessing over graph aesthetics
-- monospaced fonts
+- spending time with my dogs
 
 Feel free to shoot me an [email](mailto:achennings@utexas.edu), reach out on [twitter](https://twitter.com/gus_hennings), or check out my [github](https://github.com/achennings).
 
