@@ -25,8 +25,8 @@ The broad goal of my Ph.D. is to leverage insights from episodic memory research
 
 ## Publications
 
-1. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (R&R). Neural reinstatement reveals
-divided organization of fear and extinction memories in the human brain.
+1. **Hennings, A. C.**, McClay, M., Drew, M. R., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2022). Neural reinstatement reveals
+divided organization of fear and extinction memories in the human brain. [Current Biology.](https://doi.org/10.1016/j.cub.2021.11.004)
 
 2. **Hennings, A. C.**, Lewis-Peacock, J. A., & Dunsmoor, J. E. (2021). Emotional learning retroactively enhances item memory but distorts source attribution. [Learning & Memory.](http://learnmem.cshlp.org/content/28/6/178)
 
