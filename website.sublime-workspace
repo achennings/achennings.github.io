@@ -537,6 +537,74 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 490,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " PHD"
+					},
+					"BAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8AAAAAAAAAHwAAAAAAAAABAAAARB4AAAAAAAAAHgAAAAAAAAABAAAASA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "hD"
+					},
+					"AgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAABsAAAAAAAAAGwAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -643,14 +711,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ACH/Documents/achennings.github.io",
-		"/C/Users/ACH/Documents/achennings.github.io/_layouts",
-		"/C/Users/ACH/Documents/achennings.github.io/_sass",
-		"/C/Users/ACH/Documents/achennings.github.io/_site",
-		"/C/Users/ACH/Documents/achennings.github.io/_site/assets",
-		"/C/Users/ACH/Documents/achennings.github.io/_site/assets/css",
-		"/C/Users/ACH/Documents/achennings.github.io/_site/css",
-		"/C/Users/ACH/Documents/achennings.github.io/css"
+		"/C/Users/ach/Documents/achennings.github.io"
 	],
 	"file_history":
 	[
@@ -785,7 +846,7 @@
 	],
 	"find":
 	{
-		"height": 48.5714285714
+		"height": 34.4
 	},
 	"find_in_files":
 	{
@@ -981,14 +1042,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "blog.md",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1012,6 +1072,38 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
@@ -1021,7 +1113,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 44.0
+		"height": 34.4
 	},
 	"input":
 	{
@@ -1062,7 +1154,7 @@
 	"project": "website.sublime-project",
 	"replace":
 	{
-		"height": 84.0
+		"height": 65.6
 	},
 	"save_all_on_build": true,
 	"select_file":
