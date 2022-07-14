@@ -6,34 +6,35 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Neuroscience Ph.D. student at UT Austin, joint member of the [Dunsmoor](https://sites.utexas.edu/dunsmoorlab/) and [Lewis-Peacock](https://www.lewpealab.org/) labs. I am currently supported by an NRSA F31 fellowship from the NIMH.
+Postdoctoral researcher at Princeton University, member of the [Princeton Computational Memory lab](https://compmem.princeton.edu/) led by Dr. Ken Norman.
 
 My interests include:
 - studying learning and memory in humans
 - obsessing over graph aesthetics
 - spending time with my dogs
 
-Feel free to shoot me an [email](mailto:achennings@utexas.edu), reach out on [twitter](https://twitter.com/gus_hennings), or check out my [github](https://github.com/achennings).
+Feel free to shoot me an [email](mailto:gus.hennings@princeton.edu), reach out on [twitter](https://twitter.com/gus_hennings), or check out my [github](https://github.com/achennings).
 
 ---
 
 ## Research Statement
 
-The broad goal of my Ph.D. is to leverage insights from episodic memory research to better understand emotional associative learning. My work focuses on fear extinction as an experimental model of exposure therapy. Decades of research and clinical accounts demonstrate that fear often returns after safety learning, and in extreme cases this can manifest as clinical disorders such as PTSD. My research applies modern cognitive neuroscience techniques such as multivariate pattern analysis and machine learning to better understand fear extinction in both healthy and clinical populations.
+The broad goal of my research is to leverage insights from episodic memory to better understand emotional associative learning. I use Pavlovian threat learning and extinction as experimental models of PTSD and exposure therapy, respectively. My PhD focused on describing how episodic-like contextual processes govern the retrieval of, and competition between, associative memories of threat and safety. Currently, I am exploring how  real-time fMRI neurofeedback can be used to enhance the efficacy of extinction learning in humans. The ultimate goal of this work is to improve clinical outcomes of individuals suffering from PTSD.
 
 ---
 
 ## Publications
 
-1. **Hennings, A. C.**, McClay, M., Drew, M. R., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2022). Neural reinstatement reveals
-divided organization of fear and extinction memories in the human brain. [Current Biology.](https://doi.org/10.1016/j.cub.2021.11.004)
+1. Keller NE, **Hennings AC**, Leiker EK, Lewis-Peacock JA, & Dunsmoor JE (2022). Rewarded extinction increases amygdalar connectivity and stabilizes long-term memory traces in the vmPFC. [Journal of Neuroscience.](https://doi.org/10.1523/JNEUROSCI.0075-22.2022)
 
-2. **Hennings, A. C.**, Lewis-Peacock, J. A., & Dunsmoor, J. E. (2021). Emotional learning retroactively enhances item memory but distorts source attribution. [Learning & Memory.](http://learnmem.cshlp.org/content/28/6/178)
+2. **Hennings AC**, McClay M, Lewis-Peacock JA, & Dunsmoor JE (2022). Neural reinstatement reveals divided organization of fear and extinction memories in the human brain. [Current Biology.](https://doi.org/10.1016/j.cub.2021.11.004)
 
-3. **Hennings, A. C.**, Bibb, S. A., Lewis-Peacock, J. A., Dunsmoor, J. E. (2021). The effect of top-down thought suppression on fear extinction generalization. [Behavioural Brain Research.](https://doi.org/10.1016/j.bbr.2020.112931)
+3. **Hennings AC**, Lewis-Peacock JA, & Dunsmoor JE (2021). Emotional learning retroactively enhances item memory but distorts source attribution. [Learning & Memory.](http://learnmem.cshlp.org/content/28/6/178)
 
-4. McClay, M, **Hennings, A. C.**, Reidel, A, & Dunsmoor, J. E. (2020). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107653)
+4. **Hennings AC**, Bibb SA, Lewis-Peacock JA, Dunsmoor JE (2021). The effect of top-down thought suppression on fear extinction generalization. [Behavioural Brain Research.](https://doi.org/10.1016/j.bbr.2020.112931)
 
-5. **Hennings, A. C.**, McClay, M., Lewis-Peacock, J. A., & Dunsmoor, J. E. (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
+5. McClay M, **Hennings AC**, Reidel A, & Dunsmoor JE (2020). The features that shape fear: How emotional intensity and threat relevance interact to guide fear learning. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107653)
 
-6. Keller, N. E., **Hennings, A. C.**, & Dunsmoor, J. E. (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
+6. **Hennings AC**, McClay M, Lewis-Peacock JA, & Dunsmoor JE (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
+
+7. Keller NE, **Hennings AC**, & Dunsmoor JE (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
