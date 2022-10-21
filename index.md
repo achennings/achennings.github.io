@@ -25,7 +25,7 @@ The broad goal of my research is to leverage insights from episodic memory to be
 
 ## Publications
 
-1. **Hennings AC**, Cooper SE, Lewis-Peacock JA, & Dunsmoor JE (2022). Pattern analysis of neuroimaging data reveals novel insights on threat learning and extinction in humans. [Neuroscience & Biobehavioral Reviews].(https://doi.org/10.1016/j.neubiorev.2022.104918)
+1. **Hennings AC**, Cooper SE, Lewis-Peacock JA, & Dunsmoor JE (2022). Pattern analysis of neuroimaging data reveals novel insights on threat learning and extinction in humans. [Neuroscience & Biobehavioral Reviews.](https://doi.org/10.1016/j.neubiorev.2022.104918)
 
 2. Keller NE, **Hennings AC**, Leiker EK, Lewis-Peacock JA, & Dunsmoor JE (2022). Rewarded extinction increases amygdalar connectivity and stabilizes long-term memory traces in the vmPFC. [Journal of Neuroscience.](https://doi.org/10.1523/JNEUROSCI.0075-22.2022)
 
