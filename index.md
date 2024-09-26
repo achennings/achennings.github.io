@@ -25,7 +25,7 @@ The broad goal of my research is to leverage insights from episodic memory to be
 
 ## Publications
 
-1. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (submitted). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. [Preprint available on PsyArXiv].(https://osf.io/preprints/psyarxiv/6j9rf)
+1. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (submitted). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/6j9rf)
 
 2. Cooper SE, **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (2024). Semantic structures facilitate threat memory integration throughout the medial temporal lobe and medial prefrontal cortex. [Current Biology.](https://doi.org/10.1016/j.cub.2024.06.071)
 
@@ -43,4 +43,4 @@ The broad goal of my research is to leverage insights from episodic memory to be
 
 9. **Hennings AC**, McClay M, Lewis-Peacock JA, & Dunsmoor JE (2020). Contextual reinstatement promotes extinction generalization in healthy adults but not PTSD. [Neuropsychologia.](https://doi.org/10.1016/j.neuropsychologia.2020.107573)
 
-10. Keller NE, **Hennings AC**, & Dunsmoor JE (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
+10.  Keller NE, **Hennings AC**, & Dunsmoor JE (2020). Behavioral and neural processes in counterconditioning: past and future directions. [Behaviour Research and Therapy.](https://doi.org/10.1016/j.brat.2019.103532)
