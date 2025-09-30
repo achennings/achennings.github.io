@@ -19,27 +19,27 @@ My interests include:
 
 ## Research Statement
 
-My research investigates the neurobiological and cognitive mechanisms that contribute to the etiology and maintenance of anxiety- and trauma-related disorders. I leverage these findings to test novel, neuroscience-informed clinical interventions. I use behavioral and physiological assessment, advanced fMRI analysis, real-time fMRI neurofeedback, and computational modeling to address these questions.
+My research investigates the neurobiological and cognitive mechanisms of affective processes in humans, as well as how these mechanisms contribute to the etiology and maintenance of anxiety- and trauma-related disorders. I leverage these findings to test novel, neuroscience-informed interventions in healthy and clinical populations. I use behavioral and physiological assessment, advanced fMRI analyses including real-time neurofeedback, eye-tracking, and computational modeling to advance this research.
 
 ---
 
 ## In-Progress Publications
 
-Brooks PP^, **Hennings AC^**, Guzman BA, Norman KA, & Ritchey M. (submitted). Eye movements reveal the cognitive dynamics supporting successful memory suppression. ^denotes equal contribution. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/mdrh4_v1)
+Brooks PP^, **Hennings AC^**, Guzman BA, Norman KA, & Ritchey M. (Submitted). Eye movements reveal the cognitive dynamics supporting successful memory suppression. ^denotes equal contribution. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/mdrh4_v1)
 
-Laing PAF, **Hennings AC**, Cooper SE, & Dunsmoor JE. (submitted). Emotional Learning Selectively Distorts the Temporal Organization of Memory: a Quantitative Synthesis. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/hxq3z_v1)
+Laing PAF, **Hennings AC**, Cooper SE, & Dunsmoor JE. (Submitted). Emotional Learning Selectively Distorts the Temporal Organization of Memory: a Quantitative Synthesis. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/hxq3z_v1)
 
-Cooper SE, Keller NE, Bauer EA, Lambert SR, **Hennings AC**, Azar AA, Bibb SA, Nemeroff CB, Cisler JM, Lewis-Peacock JA, & Dunsmoor JE. (submitted). Augmenting extinction with counterconditioning strengthens and sustains neural safety representations in PTSD. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/3b82c_v1)
+Cooper SE, Keller NE, Bauer EA, Lambert SR, **Hennings AC**, Azar AA, Bibb SA, Nemeroff CB, Cisler JM, Lewis-Peacock JA, & Dunsmoor JE. (Submitted). Augmenting extinction with counterconditioning strengthens and sustains neural safety representations in PTSD. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/3b82c_v1)
 
-**Hennings AC** & Norman KA. (in prep). Enhancing inhibitory control of memory via real-time fMRI neurofeedback.
+**Hennings AC** & Norman KA. (In prep). Enhancing inhibitory control of memory via real-time fMRI neurofeedback.
 
-Chandrasekhar D, **Hennings AC**, Niv Y, & Berwian I. (in prep). Selective maintenance of adverse events may explain conditioning phenomena attributed to fear generalization.
+Chandrasekhar D, **Hennings AC**, Niv Y, & Berwian I. (In prep). Selective maintenance of adverse events may explain conditioning phenomena attributed to fear generalization.
 
 ---
 
 ## Peer-Reviewed Publications
 
-10. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (2025). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. Journal of Cognitive Neuroscience (forthcoming).
+10. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (*In press*). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. [Journal of Cognitive Neuroscience.](https://doi.org/10.1162/jocn.a.93)
 
 9. Cooper SE, **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (2024). Semantic structures facilitate threat memory integration throughout the medial temporal lobe and medial prefrontal cortex. [Current Biology.](https://doi.org/10.1016/j.cub.2024.06.071)
 
