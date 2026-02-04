@@ -27,8 +27,6 @@ My research investigates the neurobiological and cognitive mechanisms of affecti
 
 Brooks PP^, **Hennings AC^**, Guzman BA, Norman KA, & Ritchey M. (Submitted). Eye movements reveal the cognitive dynamics supporting successful memory suppression. ^denotes equal contribution. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/mdrh4_v1)
 
-Cooper SE, Keller NE, Bauer EA, Lambert SR, **Hennings AC**, Azar AA, Bibb SA, Nemeroff CB, Cisler JM, Lewis-Peacock JA, & Dunsmoor JE. (Submitted). Augmenting extinction with counterconditioning strengthens and sustains neural safety representations in PTSD. [Preprint available on PsyArXiv.](https://osf.io/preprints/psyarxiv/3b82c_v1)
-
 **Hennings AC** & Norman KA. (In prep). Enhancing inhibitory control of memory via real-time fMRI neurofeedback.
 
 Chandrasekhar D, **Hennings AC**, Niv Y, & Berwian I. (In prep). Selective maintenance of adverse events may explain conditioning phenomena attributed to fear generalization.
@@ -37,9 +35,11 @@ Chandrasekhar D, **Hennings AC**, Niv Y, & Berwian I. (In prep). Selective maint
 
 ## Peer-Reviewed Publications
 
+12. Cooper SE, Keller NE, Bauer EA, Lambert SR, **Hennings AC**, Azar AA, Bibb SA, Nemeroff CB, Cisler JM, Lewis-Peacock JA, & Dunsmoor JE. (*In Press*). Augmenting extinction with counterconditioning strengthens and sustains neural safety representations in PTSD. Translational Psychiatry.
+
 11. Laing PAF, **Hennings AC**, Cooper SE, & Dunsmoor JE. (2026). Emotional learning selectively distorts the temporal organization of memory: a quantitative synthesis. [Cognition.](https://doi.org/10.1016/j.cognition.2025.106382)
 
-10. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (*In press*). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. [Journal of Cognitive Neuroscience.](https://doi.org/10.1162/jocn.a.93)
+10. **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (2026). Neural reinstatement of encoding context mediates the switch between fear and extinction recall. [Journal of Cognitive Neuroscience.](https://doi.org/10.1162/jocn.a.93)
 
 9. Cooper SE, **Hennings AC**, Bibb SA, Lewis-Peacock JA, & Dunsmoor JE (2024). Semantic structures facilitate threat memory integration throughout the medial temporal lobe and medial prefrontal cortex. [Current Biology.](https://doi.org/10.1016/j.cub.2024.06.071)
 
